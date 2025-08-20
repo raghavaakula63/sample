@@ -1,1 +1,1 @@
-In this project we ar buiding a agents that optimize resume
+In this project we are buiding a agents that optimize resume
